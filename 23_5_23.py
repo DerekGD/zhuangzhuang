@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
  
 # create data
 # 创建数据
-size_of_groups=[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+size_of_groups=[1,7,4,3,5,1,1]
  
 # Create a pieplot
 # 创建饼图
