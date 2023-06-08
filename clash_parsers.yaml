@@ -1,5 +1,5 @@
 parsers: # array
-  - url: https://subscription.kyapi.xyz/modules/servers/V2RaySocks/subscribe/clash.php?sid=125326&token=kqoUzURXxNNC
+  - url: https://subscription**
     yaml:
       prepend-rules:
         - DOMAIN-SUFFIX,*.peraglobal.com,DIRECT
@@ -24,7 +24,7 @@ parsers: # array
         - RULE-SET,lancidr,DIRECT
         - RULE-SET,cncidr,DIRECT
         
-  - url: https://subscription.kyapi.xyz/modules/servers/V2RaySocks/subscribe/clash.php?sid=128588&token=1hLkqL9cO2kk
+  - url: https://subscription**
     yaml:
       prepend-rules:
         - DOMAIN-SUFFIX,*.peraglobal.com,DIRECT
